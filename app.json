@@ -1,13 +1,11 @@
 {
   "expo": {
-    "name": "Jogo Da Memoria",
-    "slug": "JogoDaMemoria",
+    "name": "Memory Game",
+    "slug": "memorygame",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A complete Memory Game for Mobile. React Native.\n\nGameplay with expo: Look for username Fslucasfs, and search for Jogo Da Memoria",
+    "githubUrl": "https://github.com/21lucasmessias/JogoDaMemoria"
   }
 }
